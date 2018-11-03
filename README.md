@@ -28,3 +28,80 @@ This app is intended to connect people within professional industries. It will s
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
+
+# Kuddle Mentor App
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * Users can login/logout
+ * Users can search for other's profiles
+ * Users can message other users
+ * User can create an account
+ * Users can edit and update their profile
+ * Users can also view other people's profiles
+ * Users can post questions, opportunities and events
+ * Users can update documents (resume, cover letters)
+ * Each user must have (universal)tags that identify how they would like to be found
+ * Users can add and discard associates from their profiles
+ * Users can customize their settings
+
+**Optional Nice-to-have Stories**
+
+ * Users can compare your experiences with the experiences of those around you 
+ * Users can comment, share, and like other people's posts
+ * Users can look at ads and special promotions
+ * Users can make group calls
+ * Users can search up relevant compaines of interest for further information
+ * Users can link different accounts (Google, Facebook, Linkden, Github)
+## 2. Screen Archetypes
+
+ * Login/Logout page
+   * User can login and logout
+   * Users can make their account
+ * Stream/Homepage
+   * Users can view feed
+   * Users can search up other users, groups, and events
+   * Users can post questions, opportunities and events
+ * Profile 
+   * Users can view and edit their profile
+   * Users can view other's profile
+   * Users can update documents
+
+ * Messages
+   * Users can see a list of their associates
+   * Users can message associates or search for another user to message
+   * Users can make group calls
+
+ * Settings
+   * Users can customize their notifications
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home/Stream
+ * Messaging
+ * Profile
+ * Settings
+
+**Flow Navigation** (Screen to Screen)
+
+ * Home/Stream
+   * Swipe Left for Messaging
+   * Swipe Right for Profile
+   * Hit button for Settings
+ * Messaging
+   * Swipe Right for Home/Stream
+   * Hit icon of associate/group in order to contact
+   * Search engine for known associates
+ * Profile
+   * Swipe Left for Home/Stream
+   * Hit message button near other user's profile to get to messaging
+
+ * Settings
+   * Hit button for Home/Stream
+   * Hit button to customize settings
+   * Logout/Change User
+
